@@ -2,7 +2,7 @@
 
 <br>
 
-<img align="center" alt="" width="600" height="400" src="https://raw.githubusercontent.com/a-hayana/de-finetti/master/view.gif">
+<img align="center" alt="" width="600" height="400" src="https://raw.githubusercontent.com/a-hayana/di-finetti/master/view.gif">
 
 
 ## `#BayesianInference`
